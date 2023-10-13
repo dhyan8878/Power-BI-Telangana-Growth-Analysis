@@ -2,6 +2,7 @@
 Welcome to the "Telangana Growth Analysis" Power BI project repository. This project is designed to explore and analyze datasets related to various aspects of Telangana's growth, including Stamp Registration, Transportation, and Ts-Ipass data. The objective is to gain insights into the trends, patterns, and potential growth opportunities in the state.
 
 - **Project Objectives:**
+- 
       **1.** Explore Stamp Registration, Transportation, and Ts-Ipass Datasets.
       **2.** Understand the attributes, categories, and time periods of these datasets.
       **3.** Analyze trends and patterns within each department.
